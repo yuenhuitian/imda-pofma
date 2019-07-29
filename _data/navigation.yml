@@ -6,11 +6,17 @@
 
 - title: About Us
   url: /about-us/
+  sub-links:
+    - title: Mission Vision Values
+      url: /about-us/mission-vision-values/
+    - title: Organisation Structure
+      url: /about-us/organisation-structure/
+
 - title: Regulations
   url: /regulations/
   sub-links:
-    - title: Act Cops
-      url: /regulations/act-cops/
+    - title: Codes of Practice
+      url: /regulations/codes-of-practice/
     - title: Subsidary Legislations
       url: /regulations/subsidary-legislations/
 
