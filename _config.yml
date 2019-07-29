@@ -51,4 +51,5 @@ collections:
     output: true
   press-room:
     output: true
+
 resources_name: press-room
