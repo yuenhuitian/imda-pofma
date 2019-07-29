@@ -45,6 +45,10 @@ collections:
     output: true
   regulations:
     output: true
-  list-of-declared-online-sites:
+  registry:
+    output: true
+  resources:
+    output: true
+  press-room:
     output: true
 resources_name: press-room
