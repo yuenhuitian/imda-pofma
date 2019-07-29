@@ -9,18 +9,18 @@
 - title: Regulations
   url: /regulations/
   sub-links:
-    - title: Mission Vision Values
-      url: /who-we-are/mission-vision-values/
-    - title: Organisation Structure
-      url: /who-we-are/organisation-structure/
-
-- title: Registry
-  url: /registry/
-  sub-links:
     - title: Act Cops
       url: /regulations/act-cops/
     - title: Subsidary Legislations
       url: /regulations/subsidary-legislations/
+
+- title: Registry
+  url: /registry/
+  sub-links:
+    - title: dummy-sublink-1
+      url: /registry/dummy-sublink-1/
+    - title: dummy-sublink-2
+      url: /registry/dummy-sublink-2/
 
 - title: Resources
   url: /resources/
@@ -33,9 +33,9 @@
       url: /resources/examples/
 
 - title: Press Room
-  url: /press-room/press-release/
+  url: /press-room/
   sub-links:
-    - title: Public List Of Declared Sites
-      url: /list-of-declared-online-sites/public-list-of-declared-sites/
-    - title: Restricted List With Push Notifications
-      url: /list-of-declared-online-sites/restricted-list-with-push-notifications/
+    - title: Press Releases
+      url: /press-room/press-releases/
+    - title: Factsheets
+      url: /press-room/factsheets/
