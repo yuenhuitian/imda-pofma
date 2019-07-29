@@ -4,7 +4,7 @@
 #                                #
 ##################################
 
-- title: About Us
+- title: About Us 
   url: /about-us
 - title: Who We Are
   url: /who-we-are/mission-vision-values/
@@ -20,7 +20,7 @@
     url: /regulations/act-cops/
   - title: Subsidary Legislations
     url: /regulations/subsidary-legislations/
-- title: List Of Declared Online Sites
+- title: Registry
   url: /list-of-declared-online-sites/public-list-of-declared-sites/
   sub-links:
   - title: Public List Of Declared Sites
