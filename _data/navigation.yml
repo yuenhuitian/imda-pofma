@@ -32,9 +32,9 @@
   url: /resources/
   sub-links:
     - title: dummy-sublink-1
-      url: /registry/dummy-sublink-1/
+      url: /resources/dummy-sublink-1/
     - title: dummy-sublink-2
-      url: /registry/dummy-sublink-2/
+      url: /resources/dummy-sublink-2/
 
 - title: Press Room
   url: /press-room/
