@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Dummy Sublink 2
-permalink: /resources/dummy-sublink-2/
-breadcrumb: Dummy Sublink 2
+title: BBBB
+permalink: /resources/bbbb/
+breadcrumb: BBBB
 collection_name: resources
 ---
 

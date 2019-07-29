@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Dummy Sublink 1
-permalink: /resources/dummy-sublink-1/
-breadcrumb: Dummy Sublink 1
+title: AAAA
+permalink: /resources/aaaa/
+breadcrumb: AAAA
 collection_name: resources
 ---
 

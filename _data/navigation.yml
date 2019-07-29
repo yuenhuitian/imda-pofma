@@ -31,10 +31,10 @@
 - title: Resources
   url: /resources/
   sub-links:
-    - title: dummy-sublink-1
-      url: /resources/dummy-sublink-1/
-    - title: dummy-sublink-2
-      url: /resources/dummy-sublink-2/
+    - title: aaaa
+      url: /resources/aaaa/
+    - title: bbbb
+      url: /resources/bbbb/
 
 - title: Press Room
   url: /press-room/
