@@ -8,12 +8,12 @@
 favicon: /images/POFMA logo.ico
 
 # Agency logo
-agency-logo: images/POFMA Logo_20 june-red (1).png
+agency-logo: /images/POFMA Logo_20 june-red (1).png
 
 # Hero Banner
 hero-title: POFMA
 hero-subtitle: Whole-of-government effort to combat fake news
-hero-banner: images/fakenews.jpg
+hero-banner: /images/fakenews.jpg
 
 #Call to Action Button
 button:
