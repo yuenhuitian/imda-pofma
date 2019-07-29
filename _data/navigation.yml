@@ -7,7 +7,7 @@
 - title: About Us
   url: /about-us/
 - title: Regulations
-  url: /who-we-are/mission-vision-values/
+  url: /regulations/
   sub-links:
     - title: Mission Vision Values
       url: /who-we-are/mission-vision-values/
@@ -15,7 +15,7 @@
       url: /who-we-are/organisation-structure/
 
 - title: Registry
-  url: /regulations/act-cops/
+  url: /registry/
   sub-links:
     - title: Act Cops
       url: /regulations/act-cops/
@@ -33,7 +33,7 @@
       url: /resources/examples/
 
 - title: Press Room
-  url: /list-of-declared-online-sites/public-list-of-declared-sites/
+  url: /resources/press-release/
   sub-links:
     - title: Public List Of Declared Sites
       url: /list-of-declared-online-sites/public-list-of-declared-sites/

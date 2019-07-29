@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-permalink: /resourcess/
+permalink: /resources/
 breadcrumb: resources
 title: Resources
 ---
