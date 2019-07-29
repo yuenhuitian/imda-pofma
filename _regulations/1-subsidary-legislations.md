@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Subsidary Legislations
-permalink: www.google.com
+permalink: /regulations/subsidary-legislations/
 breadcrumb: Subsidary Legislations
 collection_name: regulations
 ---
