@@ -48,3 +48,5 @@ collections:
   list-of-declared-online-sites:
     output: true
 resources_name: resources
+   press room:
+    output: true
