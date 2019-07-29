@@ -25,12 +25,10 @@
 - title: Resources
   url: /resources/
   sub-links:
-    - title: All
-      url: /resources/
-    - title: Educational
-      url: /resources/educational/
-    - title: Examples
-      url: /resources/examples/
+    - title: dummy-sublink-1
+      url: /registry/dummy-sublink-1/
+    - title: dummy-sublink-2
+      url: /registry/dummy-sublink-2/
 
 - title: Press Room
   url: /press-room/
