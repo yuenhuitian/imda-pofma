@@ -4,8 +4,8 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
+- title: About Us
+  url: /about-us/
 - title: Who We Are
   url: /who-we-are/mission-vision-values/
   sub-links:
