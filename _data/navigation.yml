@@ -4,29 +4,24 @@
 #                                #
 ##################################
 
-- title: Contact Us
+- title: About Us
   url: /contact-us/
-- title: Who We Are
+- title: Regulations
   url: /who-we-are/mission-vision-values/
   sub-links:
     - title: Mission Vision Values
       url: /who-we-are/mission-vision-values/
     - title: Organisation Structure
       url: /who-we-are/organisation-structure/
-- title: Regulations
+
+- title: Registry
   url: /regulations/act-cops/
   sub-links:
     - title: Act Cops
       url: /regulations/act-cops/
     - title: Subsidary Legislations
       url: /regulations/subsidary-legislations/
-- title: List Of Declared Online Sites
-  url: /list-of-declared-online-sites/public-list-of-declared-sites/
-  sub-links:
-    - title: Public List Of Declared Sites
-      url: /list-of-declared-online-sites/public-list-of-declared-sites/
-    - title: Restricted List With Push Notifications
-      url: /list-of-declared-online-sites/restricted-list-with-push-notifications/
+
 - title: Resources
   url: /resources/
   sub-links:
@@ -36,3 +31,11 @@
       url: /resources/educational/
     - title: Examples
       url: /resources/examples/
+
+- title: Press Room
+  url: /list-of-declared-online-sites/public-list-of-declared-sites/
+  sub-links:
+    - title: Public List Of Declared Sites
+      url: /list-of-declared-online-sites/public-list-of-declared-sites/
+    - title: Restricted List With Push Notifications
+      url: /list-of-declared-online-sites/restricted-list-with-push-notifications/
