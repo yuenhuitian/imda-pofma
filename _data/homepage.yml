@@ -21,7 +21,7 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: Highlight A
+  - title: Highlight AB
     description: Important highlight A is important
     url: https://google.com
     external: true
