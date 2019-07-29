@@ -2,7 +2,7 @@
 layout: simple-page
 permalink: /about-us/
 breadcrumb: about us
-title: about us
+title: About Us
 ---
 
 
