@@ -15,5 +15,5 @@ This is why the Government has been conducting public education:
 - CSA’s GoSafeOnline 
 
 <div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/BBcR4KGDdL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=aFLHEu74ivw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
