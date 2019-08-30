@@ -13,6 +13,6 @@ This is part of the wider Whole-of-Government effort to combat the proliferation
 
 # Functions of the POFMA Office 
 The POFMA Office: 
-- has regulatory oversight of online platforms  to ensure they put safeguards in place to prevent abuse [of their platforms]
-- is equipped to assess the technical feasibility and effectiveness of the various regulatory tools to deal with online falsehoods 
-- works with technology companies on the Codes of Practice, and monitors compliance with the directions and codes
+- advises Portfolio Minister(s) on type of Directions to issue based on technical feasibility, effectiveness and suitability
+- issues Directions/Notices on the instruction of Portfolio Minister(s) and monitor compliance with and enforce the Directions
+- administers the Codes of Practice (CoPs) issued under POFMA and monitor compliance with and enforce the CoPs
