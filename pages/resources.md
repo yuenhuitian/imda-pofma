@@ -14,17 +14,15 @@ Today, many people and groups produce online falsehoods to mislead others. These
 POFMA follows from one of the 22 recommendations made by the Select Committee on Deliberate Online Falsehoods, which had consulted widely with Singaporeans and international experts. Legislation is necessary, but not sufficient. Informed and alert Singaporeans remain the first line of defence against online falsehoods.
 
 The suite of countermeasures it proposed covers five broad areas, as follows: 
-<Insert Gov.sg infographic: https://www.gov.sg/~/media/gov/factually/thumbnail/law%20and%20government/infog_dof_rec_v1.png> 
-
 
 ![alt text](https://www.gov.sg/~/media/gov/factually/thumbnail/law%20and%20government/infog_dof_rec_v1.png "Deliberate online falsehoods")
 
 
 See the resources below for more information: 
 
-1. How POFMA Applies [PDF](/file/to/PDF)
-2. Factsheet on Public Education Initiatives [PDF](/file/to/PDF)
-3. FAQs on POFMA [PDF](/file/to/PDF)
-4. Factually: Government fact-checking website provides accurate information on government policies and related issues [link to factually](/resources/factually/)
+1. [How POFMA Applies](https://www.mlaw.gov.sg/content/dam/minlaw/corp/News/Press%20Release/POFMB/How_POFMA_Applies.pdf)
+2. [Factsheet on Public Education Initiatives](https://www.mlaw.gov.sg/content/dam/minlaw/corp/News/Press%20Release/POFMB/POFMA-Brochure.pdf)
+3. [FAQs on POFMA](https://www.mlaw.gov.sg/content/dam/minlaw/corp/News/Press%20Release/POFMB/POFMA-FAQs.pdf)
+4. [Factually](https://www.gov.sg/factually): Government fact-checking website provides accurate information on government policies and related issues
 
 
