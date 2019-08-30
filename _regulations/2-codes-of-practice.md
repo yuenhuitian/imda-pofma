@@ -6,8 +6,19 @@ breadcrumb: Codes of Practice
 collection_name: regulations
 ---
 
-# Header
+# Codes of Practice
 
 ## Sub Header
 
-Body
+In discharging its regulatory responsibility, the POFMA Office has developed codes of practice to ensure that prescribed Internet intermediaries have adequate systems and processes in place to mitigate the risk of abuse of their platforms by malicious actors, and enhance the integrity of information online. 
+
+1. Code of Practice for Giving Prominence to Credible Online Sources for Information [PDF](/file/to/CoP/PDF)
+
+    \<short para on what this CoP is about>
+
+2. Code of Practice for Transparency of Online Political Advertisements [PDF](/file/to/CoP/PDF)
+    \<short para on what this CoP is about>
+
+3. Code of Practice for Preventing and Countering Abuse of Online Accounts [PDF](/file/to/CoP/PDF)
+
+    \<short para on what this CoP is about>

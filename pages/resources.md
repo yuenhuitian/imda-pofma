@@ -16,11 +16,15 @@ POFMA follows from one of the 22 recommendations made by the Select Committee on
 The suite of countermeasures it proposed covers five broad areas, as follows: 
 <Insert Gov.sg infographic: https://www.gov.sg/~/media/gov/factually/thumbnail/law%20and%20government/infog_dof_rec_v1.png> 
 
+
+![alt text](https://www.gov.sg/~/media/gov/factually/thumbnail/law%20and%20government/infog_dof_rec_v1.png "Deliberate online falsehoods")
+
+
 See the resources below for more information: 
 
-1. How POFMA Applies [PDF File](https://www.google.com)
-2. Factsheet on Public Education Initiatives [PDF File](https://www.google.com)
-3. FAQs on POFMA [PDF File](https://www.google.com)
-4. Factually: Government fact-checking website provides accurate information on government policies and related issues [link to factually](/factually/)
+1. How POFMA Applies [PDF](/file/to/PDF)
+2. Factsheet on Public Education Initiatives [PDF](/file/to/PDF)
+3. FAQs on POFMA [PDF](/file/to/PDF)
+4. Factually: Government fact-checking website provides accurate information on government policies and related issues [link to factually](/resources/factually/)
 
 

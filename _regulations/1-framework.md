@@ -6,7 +6,7 @@ breadcrumb: Framework
 collection_name: regulations
 ---
 
-# Header
+# Framework
 
 ## Sub Header
 
