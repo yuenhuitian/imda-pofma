@@ -6,8 +6,8 @@ breadcrumb: Application Form
 collection_name: resources
 ---
 
-# Application Form for Variation/Cancellation/Suspension of Direction/Declaration
+# Application Form for Variation / Cancellation / Suspension of Direction / Declaration
 
-## Sub Header
+[C&S to provide inputs on content for this page]
 
-Body
+Click to download the [Application Form](https://www.mlaw.gov.sg/content/dam/minlaw/corp/News/Press%20Release/POFMB/How_POFMA_Applies.pdf).
