@@ -7,6 +7,9 @@
 # Favicon
 favicon: /images/POFMA logo.ico
 
+# REACH
+show-reach: true
+
 # Agency logo
 agency-logo: /images/POFMA Logo_20 june-red (1).png
 
