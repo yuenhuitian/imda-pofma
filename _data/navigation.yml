@@ -7,39 +7,41 @@
 - title: About Us
   url: /about-us/
   sub-links:
-    - title: Mission Vision Values
-      url: /about-us/mission-vision-values/
+    - title: About Us
+      url: /about-us/
     - title: Organisation Structure
       url: /about-us/organisation-structure/
 
 - title: Regulations
   url: /regulations/
   sub-links:
+    - title: Protection from Online Falsehoods and Manipulation Act
+      url: /regulations/protection-from-online-falsehoods-and-manipulation-act/
+    - title: Framework
+      url: /regulations/framework/
     - title: Codes of Practice
       url: /regulations/codes-of-practice/
-    - title: Subsidary Legislations
-      url: /regulations/subsidary-legislations/
 
 - title: Registry
   url: /registry/
   sub-links:
-    - title: dummy-sublink-1
-      url: /registry/dummy-sublink-1/
-    - title: dummy-sublink-2
-      url: /registry/dummy-sublink-2/
+    - title: Declared Online Locations
+      url: /registry/declared-online-locations/
 
 - title: Resources
   url: /resources/
   sub-links:
-    - title: dummy-sublink-1
-      url: /resources/dummy-sublink-1/
-    - title: dummy-sublink-2
-      url: /resources/dummy-sublink-2/
+    - title: Resources
+      url: /resources/resources/
+    - title: Factually
+      url: /resources/factually/
+    - title: Application Form
+      url: /resources/application-form/
 
 - title: Press Room
   url: /press-room/
   sub-links:
     - title: Press Releases
       url: /press-room/press-releases/
-    - title: Factsheets
-      url: /press-room/factsheets/
+    - title: POFMA Directions
+      url: /press-room/pofma-directions/
