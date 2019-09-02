@@ -14,8 +14,8 @@ show-reach: true
 agency-logo: /images/POFMA Logo_20 june-red (1).png
 
 # Hero Banner
-hero-title: Protection from Online Falsehoods and Manipulation Act
-hero-subtitle: POFMA protects society from the damage caused by deliberate online falsehoods and fake accounts that spread such falsehoods.
+hero-title: 
+hero-subtitle:
 hero-banner: /images/fakenews.jpg
 
 #Call to Action Button
