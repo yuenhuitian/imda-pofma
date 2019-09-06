@@ -9,8 +9,8 @@
   sub-links:
     - title: About Us
       url: /about-us/
-    - title: Organisation Structure
-      url: /about-us/organisation-structure/
+#    - title: Organisation Structure
+#      url: /about-us/organisation-structure/
 
 - title: Regulations
   url: /regulations/
@@ -36,10 +36,10 @@
     - title: Application Form
       url: /resources/application-form/
 
-- title: Press Room
-  url: /press-room/
+- title: Media Centre
+  url: /media-centre/
   sub-links:
     - title: Press Releases
-      url: /press-room/press-releases/
+      url: /media-centre/press-releases/
     - title: POFMA Directions
-      url: /press-room/pofma-directions/
+      url: /media-centre/pofma-directions/
