@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: POFMA Directions
-permalink: /resources/pofma-directions/
+permalink: /media-centre/pofma-directions/
 breadcrumb: POFMA Directions
 collection_name: resources
 ---
