@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Press Releases
-permalink: /media-centre/press-releases/
+permalink: /resources/press-releases/
 breadcrumb: Press Releases
 collection_name: resources
 ---
