@@ -19,9 +19,9 @@ hero-subtitle:
 hero-banner: /images/fakenews.jpg
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /regulations/
+#button:
+#  - text: Learn More
+#    url: /regulations/
     
 #key-highlights:
 #  - title: Highlight AB
