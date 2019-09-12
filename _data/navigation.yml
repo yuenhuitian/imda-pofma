@@ -36,10 +36,10 @@
     - title: Application Form
       url: /resources/application-form/
 
-- title: Media Centre
-  url: /media-centre/
-  sub-links:
-    - title: Press Releases
-      url: /media-centre/press-releases/
-    - title: Advisories
-      url: /media-centre/advisories/
+#- title: Media Centre
+#  url: /media-centre/
+#  sub-links:
+#    - title: Press Releases
+#      url: /media-centre/press-releases/
+#    - title: Advisories
+#      url: /media-centre/advisories/
