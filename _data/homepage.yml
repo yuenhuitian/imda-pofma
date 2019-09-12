@@ -18,6 +18,9 @@ hero-title:
 hero-subtitle:
 hero-banner: /images/fakenews.jpg
 
+# Google Analytics
+google-analytics: UA-147734365-1
+
 #Call to Action Button
 #button:
 #  - text: Learn More
