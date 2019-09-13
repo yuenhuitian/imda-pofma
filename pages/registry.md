@@ -14,6 +14,11 @@ The public ought to exercise caution and do additional fact-checking, if accessi
 
 For list of declared online sites, see below or click to download <PDF file>.  
   
-!(/images/dol sample.jpg)
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/dol sample.jpg" alt="sample DOLi">
+    </div>
+
+
 
 
