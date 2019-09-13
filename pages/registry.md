@@ -12,4 +12,7 @@ Due to their repeated carrying of online falsehoods which prejudices society, th
 
 The public ought to exercise caution and do additional fact-checking, if accessing such declared websites for information.
 
-For list of declared online sites, click to download <PDF file>.  
+For list of declared online sites, see below or click to download <PDF file>.  
+  
+![alt text](../images/dol sample.jpg")
+
