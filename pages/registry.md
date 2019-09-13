@@ -14,5 +14,6 @@ The public ought to exercise caution and do additional fact-checking, if accessi
 
 For list of declared online sites, see below or click to download <PDF file>.  
   
-![alt text](../images/dol sample.jpg")
+!(/images/dol sample.jpg)
+
 
