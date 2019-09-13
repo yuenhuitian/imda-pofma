@@ -14,3 +14,7 @@ These are online locations that have repeatedly carried three or more different 
 The public should exercise caution and do additional fact-checking, if accessing such online locations for information. 
 
 For the list of Declared Online Locations click to download [PDF File](/file/to/pdf).  
+
+<div class="row">
+        <img src="/images/dol sample.jpg">
+     </div>
