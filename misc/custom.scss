@@ -344,9 +344,9 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .hero-dropdown {
-  padding-top: 1.75rem;
-  padding-bottom: 1.75rem;
-	width: fixed;
+display: flex;
+padding-top: 1.75rem;
+padding-bottom: 1.75rem;
 }
 
 .is-centered {
