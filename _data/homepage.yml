@@ -14,9 +14,9 @@ show-reach: true
 agency-logo: /images/POFMA Logo_20 june-red (1).png
 
 # Hero Banner
-hero-title: 
-hero-subtitle: test
-hero-banner: images/SG_skyline.jpg
+hero-title: POFMA Office
+hero-subtitle: 
+hero-banner: images/SG_Skyline.jpg
 
 # Google Analytics
 google-analytics: UA-147734365-1
