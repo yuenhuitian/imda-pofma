@@ -51,4 +51,4 @@ collection_name: resources
     </ol>
 </html>
 
-Click to download the [Application Form](/forms/PO%20-%20Application%20for%20Variation_Cancellation%2020190925%20(clean%20PDF)_IMDA.pdf).
+Click to download the [Application Form](/forms/no-file-yet).
