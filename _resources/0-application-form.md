@@ -18,16 +18,15 @@ collection_name: resources
             list-style-type:lower-roman;
         }
         .content ol {
-            
         }
     </style>
     <ol>
         <li>
             You can make an application for:
-            <ol class="roman">
+            <ol style="list-style-type: none !important;" type="i">
                 <li>
                     <b>Variation or Cancellation of Direction or Remedial Order</b>, where you – 
-                    <ol type="alpha">
+                    <ol type="a">
                         <li>have been issued a Part 3 or Part 4 Direction, Account Restriction Direction or Remedial Order; </li>
                         <li>have communicated in Singapore the subject material of a Part 4 Direction; <u>OR</u> </li>
                         <li>are the holder of, or have control over, the specified online account in an 	Account Restriction Direction.</li>
@@ -35,7 +34,7 @@ collection_name: resources
                 </li>
                 <li>
                     <b>Suspension, Variation or Cancellation of Declaration</b>, where you – 
-                    <ol type="alpha">
+                    <ol type="a">
                         <li>are the owner/operator of the declared online location; <u>OR</u></li>
                         <li>have editorial control over the declared online location.</li>
                     </ol>
@@ -47,7 +46,7 @@ collection_name: resources
         </li>
         <li>
             This Form must be filled out in <u>full</u>, unless otherwise indicated, and: 
-            <ol class="roman">
+            <ol type="i">
                 <li>Sent to the electronic address of the relevant Ministry, as provided on the Direction, Remedial Order or Declaration, keeping on </li>
                 <li>cc: <a href="mailto:admin@pofmaoffice.gov.sg">admin@pofmaoffice.gov.sg</a>; AND</li>
                 <li>Indicate “Application to Minister” in the subject title of the e-mail. </li>
