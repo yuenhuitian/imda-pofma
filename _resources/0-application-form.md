@@ -8,8 +8,6 @@ collection_name: resources
 
 # Application to Minister: Variation, Cancellation or Suspension
 
-[C&S to provide inputs on content for this page]
-
 ### <u>IMPORTANT INFORMATION</u>
  
 1. You can make an application for: 
