@@ -10,7 +10,7 @@ collection_name: resources
 
 ### <u>IMPORTANT INFORMATION</u>
 
-<ol type="1">
+<ol>
     <li>
         You can make an application for:
         <ol type="i">
