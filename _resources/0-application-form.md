@@ -11,6 +11,12 @@ collection_name: resources
 ### <u>IMPORTANT INFORMATION</u>
 <html>
     <style type="text/css">
+        ol ol {
+            list-style-type:lower-alpha;
+        }
+        ul ol {
+            list-style-type:lower-alpha;
+        }
         .alpha {
             list-style-type:lower-alpha;
         }
