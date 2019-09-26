@@ -13,4 +13,4 @@ A direction can only be issued if:
 - There is a false statement of fact communicated in Singapore.
 - It is in the public interest to issue the direction.
 
-Click [here](/file/to/pofma/via/singapore/statues/online) to access the Act POFMA. 
+Click [here](/file/to/pofma/via/singapore/statues/online) to access the Act. 
