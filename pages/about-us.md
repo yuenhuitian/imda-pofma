@@ -13,6 +13,5 @@ This is part of the wider Whole-of-Government effort to address the proliferatio
 
 # Functions of the POFMA Office 
 The POFMA Office: 
-- Advises Portfolio Minister(s) on type of Direction(s) to issue based on technical feasibility, effectiveness and suitability
-- Issues Directions/Notices on the instruction of Portfolio Minister(s); monitors and enforces compliance with the Directions
-- Administers the Codes of Practice (CoPs) issued under POFMA and; monitors and enforces compliance with the CoPs
+- Issues Directions/Notices upon the instruction of Portfolio Minister(s); monitors and enforces compliance with the Directions/Notices
+- Administers the Codes of Practice (CoPs) issued under POFMA; monitors and enforces compliance with the CoPs
