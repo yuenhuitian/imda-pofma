@@ -18,6 +18,7 @@ collection_name: resources
             list-style-type:lower-roman;
         }
         .content ol {
+            list-style: none;
         }
     </style>
     <ol>
