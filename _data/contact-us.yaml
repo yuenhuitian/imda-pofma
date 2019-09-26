@@ -16,7 +16,6 @@ locations:
 column:
   - title: Contact Information
     content:
-    - line: +65 6377 3400
     - line: info@pofmaoffice.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
