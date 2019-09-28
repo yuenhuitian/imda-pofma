@@ -10,7 +10,7 @@ collection_name: registry
 
 
 The registry contains a list of Declared Online Locations, which can be websites and webpages. 
-These are online locations that have carried three or more different online falsehoods which are the subject of active Directions issued within a period of 6 months, prior to the Declaration. 
+These are online locations that have carried three or more different online falsehoods which are the subject of active Directions issued by POFMA Office under Ministerial instruction within a period of 6 months, prior to the Declaration.
 The public should exercise caution and do additional fact-checking, if accessing these online locations for information. 
 
 **There are currently no declared online locations.**
