@@ -51,7 +51,7 @@ collection_name: resources
         </li>
         <li>
             Please attach the Direction, Remedial Order or Declaration together with your application. <u>If a copy is not available</u>, <u>please identify the relevant Direction, Remedial Order or Declaration clearly.</u>
-            <div>&nbsp;</div>
+            <div>&nbsp;</div> 
         </li>
     </ol>
 </html>
