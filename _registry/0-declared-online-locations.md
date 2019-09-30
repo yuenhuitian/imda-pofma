@@ -15,4 +15,4 @@ The public should exercise caution and do additional fact-checking, if accessing
 
 **There are currently no declared online locations.**
 
-If you wish to be notified of Declared Online Locations, click here to sign up for the mailing list. 
+If you wish to be notified of Declared Online Locations, click [here](https://form.gov.sg/5d91d428f23aa800126c6335) to sign up for the mailing list. 
