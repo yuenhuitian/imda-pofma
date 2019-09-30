@@ -14,3 +14,5 @@ These are online locations that have carried three or more different online fals
 The public should exercise caution and do additional fact-checking, if accessing these online locations for information. 
 
 **There are currently no declared online locations.**
+
+If you wish to be notified of Declared Online Locations, click here to sign up for the mailing list. 
