@@ -6,11 +6,15 @@ breadcrumb: Protection from Online Falsehoods and Manipulation Act
 collection_name: regulations
 ---
 
-# Protection from Online Falsehoods and Manipulation Act
+# Protection from Online Falsehoods and Manipulation Act (POFMA)
 
+POFMA's primary tool to counter online falsehoods are the correction directions - these directions do not require the online falsehood to be removed. In more serious cases, a stop communication or disabling direction may be used. 
 
-A direction can only be issued if: 
-- There is a false statement of fact communicated in Singapore.
+These directions can only be issued if: 
+- A false statement of fact has been or is being communicated in Singapore through the Internet; and
 - It is in the public interest to issue the direction.
 
-Click [here](/file/to/pofma/via/singapore/statues/online) to access POFMA via the Singapore Statues Online. 
+Click to access the following via Singapore Statutes Online: 
+1. [POFMA] (/file/to/pofma/via/singapore/statues/online)
+2. [POFMA Regulations] ((/file/to/pofma/via/singapore/statues/online) 
+3. [POFMA Rules of Court] (/file/to/pofma/via/singapore/statues/online)
