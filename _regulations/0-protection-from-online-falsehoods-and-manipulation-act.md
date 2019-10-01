@@ -15,6 +15,6 @@ These directions can only be issued if:
 - It is in the public interest to issue the direction.
 
 Click to access the following via Singapore Statutes Online: 
-1. [POFMA] (/file/to/pofma/via/singapore/statues/online)
-2. [POFMA Regulations] ((/file/to/pofma/via/singapore/statues/online) 
-3. [POFMA Rules of Court] (/file/to/pofma/via/singapore/statues/online)
+1. [POFMA] 
+2. [POFMA Regulations] 
+3. [POFMA Rules of Court] 
