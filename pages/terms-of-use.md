@@ -4,7 +4,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 breadcrumb: Terms of Use
 ---
-1. We thank you for visiting www.imda.gov.sg (“this Site”). This Site is the official website of the Infocomm Media Development Authority (“IMDA”). Your access and use of this Site constitutes your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Site.
+1. We thank you for visiting www.pofmaoffice.gov.sg (“this Site”). This Site is the official website of the POFMA Office that resides within the Infocomm Media Development Authority (“IMDA”). Your access and use of this Site constitutes your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Site.
 
 2. In case of any violation of these Terms of Use, IMDA reserves the right to seek all remedies available under the law and in equity for such violations. These Terms of Use apply in respect of any and all visits to this Site, both now and in the future.
 
@@ -78,7 +78,7 @@ Hyperlinks to this Site from third party websites
 
 Permission for use
 
-1. Where permission is required by these Terms of Use for use of this Site or the Contents, you may apply for permission by writing to IMDA at 10 Pasir Panjang Road #03-01, Mapletree Business City, Singapore 117438.
+1. Where permission is required by these Terms of Use for use of this Site or the Contents, you may apply for permission by writing to POFMA Office at 10 Pasir Panjang Road #03-01, Mapletree Business City, Singapore 117438.
 
 2. IMDA may, at its sole and absolute discretion, grant or refuse permission to use this Site or the Contents, and impose such conditions for the use of this Site or the Contents as it deems fit.
 
