@@ -22,7 +22,7 @@ See the resources below for more information on POFMA:
 # Background to POFMA
 Today, many people and groups produce online falsehoods to mislead others. These online falsehoods can affect lives and harm society.
 
-The Protection from Online Falsehoods and Manipulation Act (POFMA) implements recommendations unanimously made by the Select Committee on Deliberate Online Falsehoods, which had consulted widely with Singaporeans and international experts. Legislation is necessary, but not sufficient. Informed and alert Singaporeans remain the first line of defence against online falsehoods.
+The Protection from Online Falsehoods and Manipulation Act (POFMA) implements recommendations unanimously made by the [Select Committee on Deliberate Online Falsehoods](https://www.parliament.gov.sg/sconlinefalsehoods), which had consulted widely with Singaporeans and international experts. Legislation is necessary, but not sufficient. Informed and alert Singaporeans remain the first line of defence against online falsehoods.
 
 The suite of countermeasures recommended by the Select Committee covers five broad areas, as follows: 
 
