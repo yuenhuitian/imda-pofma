@@ -12,14 +12,16 @@ collection_name: resources
 <html>
     <ol>
         <li>
-            You can make an application for:
+            You can make an application to vary or cancel a Direction or Remedial Order if you fall within any of the categories set out in the table below:
             <img src="/images/Type of Direction.PNG" alt="Type of Direction">
         </li>
             <div>&nbsp;</div>
         </li>
         <li>
-            A Direction, Remedial Order or Declaration issued remains in effect, despite any application made, until it is set aside. 
-            <div>&nbsp;</div>
+            You can make an application to suspend, vary or cancel a Declaration if you are the owner or operator of the declared online location, or you have editorial control over the declared online location. 
+            </li>
+        <li>
+            A Direction, Remedial Order or Declaration issued remains in effect, despite any application made, until it is suspended, varied, or cancelled (as the case may be). 
         </li>
         <li>
             This Form must be filled out in <u>full</u>, unless otherwise indicated, and: 
@@ -28,16 +30,34 @@ collection_name: resources
                 <li>cc: <a href="mailto:admin@pofmaoffice.gov.sg">admin@pofmaoffice.gov.sg</a>; AND</li>
                 <li>Indicate “Application to Minister” in the subject title of the e-mail. </li>
             </ol>
-            <div>&nbsp;</div>
         </li>
         <li>
-            If you are unable to use the PDF Form, please write in to the electronic address of the relevant Ministry, as provided on the Direction, Remedial Order or Declaration, keeping <a href="mailto:admin@pofmaoffice.gov.sg">admin@pofmaoffice.gov.sg</a> on copy, with all the details and attachment(s) as required on the Form.
+            If you are unable to use the PDF Form, please write in to the electronic address of the relevant Ministry, as provided on the Direction, Remedial Order or Declaration, keeping <a href="mailto:admin@pofmaoffice.gov.sg">admin@pofmaoffice.gov.sg</a> on copy, with all the details and attachment(s) as required in regulation 13 of the POFMA Regulations.
             <div>&nbsp;</div>
         </li>
         <li>
             Please attach the Direction, Remedial Order or Declaration together with your application. <u>If a copy is not available</u>, <u>please identify the relevant Direction, Remedial Order or Declaration clearly.</u>
-        </li>
-    </ol>
+       </li>
+        <li>
+           When you submit an application in accordance with the requirements above, a notice of the Minister’s decision should be issued <b>within 2 working days after the date on which the application is received</b> at the relevant e-mail address. If the notice of the Minister’s decision is not issued within the specified time period, the application is treated as refused.
+            </li>
+        <li>
+          If your application has been refused in whole or in part, and you wish to appeal against the Minister’s decision, you may file an appeal to the High Court within 14 days after the Minister’s decision. For more information on how to file this appeal to the High Court, see [weblink to Supreme Court’s website].
+            </li>
+              </ol>
+               
+<i>
+    Notes:
+<ul>
+    <li>
+    The requirements for an application to the Minister are stipulated in regulation 13 of the Regulations issued under s 62 of POFMA.
+</li>
+<li>
+The calculation of the time period for the Minister to issue a decision on the application is set out in regulation 14 of the Regulations issued under s 62 of POFMA.
+</li>
+</ul>
+</i>
+  
 </html>
 
 Click to download the [Application Form](/forms/Application%20to%20Minister%20(Final).pdf).
