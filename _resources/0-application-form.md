@@ -34,7 +34,7 @@ collection_name: resources
             </ol>
         </li>
         <li>
-            If you are unable to use the PDF Form, please write in to the electronic address of the relevant Ministry, as provided on the Direction, Remedial Order or Declaration, keeping <a href="mailto:admin@pofmaoffice.gov.sg">admin@pofmaoffice.gov.sg</a> on copy, with all the details and attachment(s) as required in regulation 13 of the POFMA Regulations.
+            If you are unable to use the PDF Form, please write to the electronic address of the relevant Ministry, as provided on the Direction, Remedial Order or Declaration, keeping <a href="mailto:admin@pofmaoffice.gov.sg">admin@pofmaoffice.gov.sg</a> on copy, with all the details and attachment(s) as required in regulation 13 of the POFMA Regulations.
             <div>&nbsp;</div>
         </li>
         <li>
