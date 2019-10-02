@@ -46,7 +46,7 @@ collection_name: resources
             <div>&nbsp;</div>
         </li>
         <li>
-          If your application has been refused in whole or in part, and you wish to appeal against the Minister’s decision, you may file an appeal to the High Court within 14 days after the Minister’s decision. For more information on how to file this appeal to the High Court, see [weblink to Supreme Court’s website].
+          If your application has been refused in whole or in part, and you wish to appeal against the Minister’s decision, you may file an appeal to the High Court within 14 days after the Minister’s decision. For more information on how to file this appeal to the High Court, please see <a href="https://www.supremecourt.gov.sg/rules/court-processes/appeals-to-high-court-under-pofma">here</a>.
            <div>&nbsp;</div>
         </li>
               </ol>
@@ -55,10 +55,10 @@ collection_name: resources
     Notes:
 <ul>
     <li>
-    The requirements for an application to the Minister are stipulated in regulation 13 of the Regulations issued under s 62 of POFMA.
+    The requirements for an application to the Minister are stipulated in <a href="https://sso.agc.gov.sg/SL-Supp/S662-2019/Published/20191001?DocDate=20191001">regulation 13 of the Regulations issued under s 62 of POFMA</a>.
 </li>
 <li>
-The calculation of the time period for the Minister to issue a decision on the application is set out in regulation 14 of the Regulations issued under s 62 of POFMA.
+The calculation of the time period for the Minister to issue a decision on the application is set out in <a href="https://sso.agc.gov.sg/SL-Supp/S662-2019/Published/20191001?DocDate=20191001">regulation 14 of the Regulations issued under s 62 of POFMA</a>.
 </li>
 </ul>
 </i>
