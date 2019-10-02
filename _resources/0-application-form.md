@@ -46,7 +46,7 @@ collection_name: resources
             <div>&nbsp;</div>
         </li>
         <li>
-          If your application has been refused in whole or in part, and you wish to appeal against the Minister’s decision, you may file an appeal to the High Court within 14 days after the Minister’s decision. For more information on how to file this appeal to the High Court, see [weblink to Supreme Court’s website].
+          If your application has been refused in whole or in part, and you wish to appeal against the Minister’s decision, you may file an appeal to the High Court within 14 days after the Minister’s decision. For more information on how to file this appeal to the High Court, please click <a href="https://www.supremecourt.gov.sg/rules/court-processes/appeals-to-high-court-under-pofma">here</a>.
            <div>&nbsp;</div>
         </li>
               </ol>
