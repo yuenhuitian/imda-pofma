@@ -13,21 +13,7 @@ collection_name: resources
     <ol>
         <li>
             You can make an application for:
-            <ol style="list-style-type: lower-roman;">
-                <li>
-                    <b>Variation or Cancellation of Direction or Remedial Order</b>, where you – 
-                    <ol style="list-style-type: lower-alpha;">
-                        <li>have been issued a Part 3 or Part 4 Direction, Account Restriction Direction or Remedial Order; </li>
-                        <li>have communicated in Singapore the subject material of a Part 4 Direction; <u>OR</u> </li>
-                        <li>are the holder of, or have control over, the specified online account in an 	Account Restriction Direction.</li>
-                    </ol>
-                </li>
-                <li>
-                    <b>Suspension, Variation or Cancellation of Declaration</b>, where you – 
-                    <ol style="list-style-type: lower-alpha;">
-                        <li>are the owner/operator of the declared online location; <u>OR</u></li>
-                        <li>have editorial control over the declared online location.</li>
-                    </ol>
+            <img src="/images/Type of Direction.PNG" alt="Type of Direction">
                 </li>
             </ol>
             <div>&nbsp;</div>
