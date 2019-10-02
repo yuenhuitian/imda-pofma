@@ -1,9 +1,8 @@
 ---
 layout: simple-page
-title: Codes of Practice
 permalink: /regulations/codes-of-practice/
 breadcrumb: Codes of Practice
-collection_name: regulations
+title: Codes of Practice
 ---
 
 # Codes of Practice
