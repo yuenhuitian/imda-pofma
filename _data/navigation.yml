@@ -4,35 +4,42 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
-- title: Who We Are
-  url: /who-we-are/mission-vision-values/
+- title: About Us
+  url: /about-us/
   sub-links:
-  - title: Mission Vision Values
-    url: /who-we-are/mission-vision-values/
-  - title: Organisation Structure
-    url: /who-we-are/organisation-structure/
+    - title: About Us
+      url: /about-us/
+#    - title: Organisation Structure
+#      url: /about-us/organisation-structure/
+
 - title: Regulations
-  url: /regulations/act-cops/
+  url: /regulations/
   sub-links:
-  - title: Act Cops
-    url: /regulations/act-cops/
-  - title: Subsidary Legislations
-    url: /regulations/subsidary-legislations/
-- title: List Of Declared Online Sites
-  url: /list-of-declared-online-sites/public-list-of-declared-sites/
+    - title: Protection from Online Falsehoods and Manipulation Act
+      url: /regulations/protection-from-online-falsehoods-and-manipulation-act/
+    - title: Codes of Practice
+      url: /regulations/codes-of-practice/
+
+- title: Registry
+  url: /registry/declared-online-locations/
   sub-links:
-  - title: Public List Of Declared Sites
-    url: /list-of-declared-online-sites/public-list-of-declared-sites/
-  - title: Restricted List With Push Notifications
-    url: /list-of-declared-online-sites/restricted-list-with-push-notifications/
+    - title: Declared Online Locations
+      url: /registry/declared-online-locations/
+
 - title: Resources
   url: /resources/
   sub-links:
-  - title: All
-    url: /resources/
-  - title: Educational
-    url: /resources/educational/
-  - title: Examples
-    url: /resources/examples/
+    - title: Resources
+      url: /resources/
+    - title: Factually
+      url: https://www.gov.sg/factually
+    - title: Application Form
+      url: /resources/application-form/
+
+#- title: Media Centre
+#  url: /media-centre/
+#  sub-links:
+#    - title: Press Releases
+#      url: /media-centre/press-releases/
+#    - title: Advisories
+#      url: /media-centre/advisories/

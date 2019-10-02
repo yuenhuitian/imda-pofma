@@ -5,35 +5,38 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/POFMA Logo_20 june-red (1).png
+
+# REACH
+show-reach: true
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/POFMA Logo_20 june-red (1).png
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-title: POFMA Office
+hero-subtitle: For the Protection from Online Falsehoods and Manipulation Act
+hero-banner: images/Connected Buildings.jpg
+
+# Google Analytics
+google-analytics: UA-147734365-1
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
+#button:
+#  - text: Learn More
+#    url: /regulations/
     
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+#key-highlights:
+#  - title: Highlight AB
+#    description: Important highlight A is important
+#    url: https://google.com
+#    external: true
+#  - title: Highlight B
+#    description: Important highlight B is equally important
+#    url: https://yahoo.com
+#    external: true
 
-resources-title: Resources
+resources-title: Latest News
 resources-subtitle: Be in the know
 resources-more-button: More Resources
 resources-more-button-url: resources/
