@@ -12,12 +12,12 @@ collection_name: resources
 <html>
     <ol>
         <li>
-            You can make an application to vary or cancel a Direction or Remedial Order if you fall within any of the categories set out in the table below:
+            You can make an application to vary or cancel a <b>Direction or Remedial Order</b> if you fall within any of the categories set out in the table below:
             <img src="/images/Type of Direction.PNG" alt="Type of Direction">
             <div>&nbsp;</div>
         </li>
         <li>
-            You can make an application to suspend, vary or cancel a Declaration if you are the owner or operator of the declared online location, or you have editorial control over the declared online location. 
+            You can make an application to suspend, vary or cancel a <b>Declaration</b> if you are the owner or operator of the declared online location, or you have editorial control over the declared online location. 
             <div>&nbsp;</div>
             </li>
         <li>
