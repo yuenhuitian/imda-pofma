@@ -7,7 +7,7 @@ title: Resources
 
 # Information about POFMA
 
-The Protection from Online Falsehoods and Manipulation Act was passed by Parliament on 8 May 2019 and assented to by the President on 3 June 2019. It came into force on 2 October 2019 by notification in the Gazette. 
+The Protection from Online Falsehoods and Manipulation Act (POFMA) was passed by Parliament on 8 May 2019 and assented to by the President on 3 June 2019. It came into force on 2 October 2019 by notification in the Gazette. 
 
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/aFLHEu74ivw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
