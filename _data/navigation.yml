@@ -13,7 +13,7 @@
 #      url: /about-us/organisation-structure/
 
 - title: Regulations
-  url: /regulations/
+  # url: /regulations/
   sub-links:
     - title: Protection from Online Falsehoods and Manipulation Act
       url: /regulations/protection-from-online-falsehoods-and-manipulation-act/
