@@ -4,7 +4,6 @@ title: Codes of Practice
 permalink: /regulations/codes-of-practice/
 breadcrumb: Codes of Practice
 collection_name: regulations
-
 ---
 
 # Codes of Practice
