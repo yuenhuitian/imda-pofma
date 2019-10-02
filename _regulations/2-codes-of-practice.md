@@ -16,3 +16,5 @@ The POFMA Office has, under the Protection from Online Falsehoods and Manipulati
 2. Code of Practice for Transparency of Online Political Advertisements [PDF](/documents/Political%20Advertisements%20Code%20and%20Annex.pdf)
 
 3. Code of Practice for Preventing and Countering Abuse of Online Accounts [PDF](/documents/Online%20Accounts%20Code%20and%20Annex.pdf)
+
+4. List of Prescribed Intermediaries for Codes [PDF](/documents/List%20of%20Prescribed%20Intermediaries%20for%20Codes.pdf)
