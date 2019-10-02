@@ -14,14 +14,15 @@ collection_name: resources
         <li>
             You can make an application to vary or cancel a Direction or Remedial Order if you fall within any of the categories set out in the table below:
             <img src="/images/Type of Direction.PNG" alt="Type of Direction">
-        </li>
             <div>&nbsp;</div>
         </li>
         <li>
             You can make an application to suspend, vary or cancel a Declaration if you are the owner or operator of the declared online location, or you have editorial control over the declared online location. 
+            <div>&nbsp;</div>
             </li>
         <li>
             A Direction, Remedial Order or Declaration issued remains in effect, despite any application made, until it is suspended, varied, or cancelled (as the case may be). 
+            <div>&nbsp;</div>
         </li>
         <li>
             This Form must be filled out in <u>full</u>, unless otherwise indicated, and: 
@@ -29,6 +30,7 @@ collection_name: resources
                 <li>Sent to the electronic address of the relevant Ministry, as provided on the Direction, Remedial Order or Declaration, keeping on </li>
                 <li>cc: <a href="mailto:admin@pofmaoffice.gov.sg">admin@pofmaoffice.gov.sg</a>; AND</li>
                 <li>Indicate “Application to Minister” in the subject title of the e-mail. </li>
+                <div>&nbsp;</div>
             </ol>
         </li>
         <li>
@@ -37,13 +39,16 @@ collection_name: resources
         </li>
         <li>
             Please attach the Direction, Remedial Order or Declaration together with your application. <u>If a copy is not available</u>, <u>please identify the relevant Direction, Remedial Order or Declaration clearly.</u>
+            <div>&nbsp;</div>
        </li>
         <li>
            When you submit an application in accordance with the requirements above, a notice of the Minister’s decision should be issued <b>within 2 working days after the date on which the application is received</b> at the relevant e-mail address. If the notice of the Minister’s decision is not issued within the specified time period, the application is treated as refused.
-            </li>
+            <div>&nbsp;</div>
+        </li>
         <li>
           If your application has been refused in whole or in part, and you wish to appeal against the Minister’s decision, you may file an appeal to the High Court within 14 days after the Minister’s decision. For more information on how to file this appeal to the High Court, see [weblink to Supreme Court’s website].
-            </li>
+           <div>&nbsp;</div>
+        </li>
               </ol>
                
 <i>
