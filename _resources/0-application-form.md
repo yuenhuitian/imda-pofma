@@ -14,8 +14,7 @@ collection_name: resources
         <li>
             You can make an application for:
             <img src="/images/Type of Direction.PNG" alt="Type of Direction">
-                </li>
-            </ol>
+        </li>
             <div>&nbsp;</div>
         </li>
         <li>
