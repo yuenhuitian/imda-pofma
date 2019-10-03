@@ -1,9 +1,8 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: Organisation Structure
 permalink: /about-us/organisation-structure/
 breadcrumb: Organisation Structure
-collection_name: about-us
 ---
 
 # Organisation Structure
