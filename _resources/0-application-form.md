@@ -27,7 +27,7 @@ collection_name: resources
         <li>
             This Form must be filled out in <u>full</u>, unless otherwise indicated, and: 
             <ol style="list-style-type: lower-roman;">
-                <li>Sent to the electronic address of the relevant Ministry, as provided on the Direction, Remedial Order or Declaration, keeping on </li>
+                <li>Sent to the electronic address of the relevant Ministry, as provided on the Direction, Remedial Order or Declaration </li>
                 <li>cc: <a href="mailto:admin@pofmaoffice.gov.sg">admin@pofmaoffice.gov.sg</a>; AND</li>
                 <li>Indicate “Application to Minister” in the subject title of the e-mail. </li>
                 <div>&nbsp;</div>
