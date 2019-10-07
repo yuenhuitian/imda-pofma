@@ -15,9 +15,9 @@ The Protection from Online Falsehoods and Manipulation Act (POFMA) was passed by
 
 See the resources below for more information on POFMA: 
 
-1. [How POFMA Applies](https://www.mlaw.gov.sg/content/dam/minlaw/corp/News/Press%20Release/POFMB/How_POFMA_Applies.pdf)
-2. [POFMA Brochure](https://www.mlaw.gov.sg/content/dam/minlaw/corp/News/Press%20Release/POFMB/POFMA-Brochure.pdf)
-3. [FAQs on POFMA](https://www.mlaw.gov.sg/content/dam/minlaw/corp/News/Press%20Release/POFMB/POFMA-FAQs.pdf)
+1. [How POFMA Applies](https://app.mlaw.gov.sg/files/news/others/HowPOFMAApplies.pdf)
+2. [POFMA Brochure](https://app.mlaw.gov.sg/files/news/others/POFMABrochure.pdf)
+3. [FAQs on POFMA and its scope](https://app.mlaw.gov.sg/files/news/others/POFMA-FAQs.pdf)
 
 # Background to POFMA
 Today, many people and groups produce online falsehoods to mislead others. These online falsehoods can affect lives and harm society.
