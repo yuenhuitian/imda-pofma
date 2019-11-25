@@ -9,6 +9,9 @@
 #    - title: Organisation Structure
 #      url: /about-us/organisation-structure/
 
+- title: News
+  url: /news/
+
 - title: Regulations
   url: /regulations/protection-from-online-falsehoods-and-manipulation-act/
   sub-links:
