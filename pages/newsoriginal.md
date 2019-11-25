@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-permalink: /newsoriginal/
-breadcrumb: Newsoriginal
-title: Newsoriginal
+permalink: /news/
+breadcrumb: News
+title: News
 ---
 
 # Media Releases
