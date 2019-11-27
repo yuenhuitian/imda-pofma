@@ -49,7 +49,7 @@ collections:
     output: true
   resources:
     output: true
-  media-centre:
-    output: true
+ # news:
+   # output: true
 
-resources_name: media-centre
+#resources_name: news
