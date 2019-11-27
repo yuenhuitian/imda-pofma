@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-permalink: /news2/
-breadcrumb: News2
-title: News2
+permalink: /news/
+breadcrumb: News
+title: News
 ---
 
 # Media Releases
