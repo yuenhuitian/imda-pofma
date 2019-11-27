@@ -1,10 +1,6 @@
 ---
 layout: post
-title:  Untitled
-date:   2018-10-01
-permalink: /news/2019/test
+title:  2019 Minister for Finance Instructs POFMA Office to Issue Correction Direction
+date:   2019-11-25
+file_url: /documents/POFMA%20Office%20PR%20on%20Direction.pdf
 ---
-
-# Untitled
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
