@@ -65,4 +65,4 @@ The calculation of the time period for the Minister to issue a decision on the a
   
 </html>
 
-Click to download the [Application Form](/forms/Application%20to%20Minister%20(Final).pdf).
+Click to download the [Application Form](/forms/Application%20to%20Minister%20(final)%20v3.2-20191125.pdf).
