@@ -2,7 +2,7 @@
 layout: post
 title:  Minister for Finance Instructs POFMA Office to Issue Correction Direction
 date:   2019-11-25
-permalink: /media-centre/press-releases/Minister-or-Finance-Instructs-POFMA-Office-to-Issue-Correction-Direction
+permalink: /documents/media-releases/2019/Nov/POFMA%20Office%20Media%20Statement%2025%20Nov%202019.pdf
 ---
 
 # Minister for Finance Instructs POFMA Office to Issue Correction Direction
