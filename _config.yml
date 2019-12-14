@@ -52,4 +52,4 @@ collections:
  # news:
    # output: true
 
-#resources_name: news
+resources_name: media-centre
