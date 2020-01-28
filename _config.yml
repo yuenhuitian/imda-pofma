@@ -14,6 +14,9 @@ plugins:
   - jekyll-assets
   - jekyll-sitemap
 
+# Timezone 
+timezone: Asia/Singapore
+
 # Breadcrumbs
 breadcrumbs:
   root:
