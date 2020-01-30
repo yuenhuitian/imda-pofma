@@ -16,4 +16,4 @@ The POFMA Office has, under the Protection from Online Falsehoods and Manipulati
 
 3. Code of Practice for Preventing and Countering Abuse of Online Accounts [PDF](/documents/Online%20Accounts%20Code%20and%20Annex.pdf)
 
-4. List of prescribed intermediaries subject to the Codes of Practice *(as of 2 October 2019)* [PDF](/documents/List%20of%20Prescribed%20Intermediaries%20for%20Codes.pdf)
+4. List of prescribed intermediaries subject to the Codes of Practice *(as of 31 January 2020)* [PDF](/documents/list-of-prescribed-intermediaries-31-jan.pdf)
