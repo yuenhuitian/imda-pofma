@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Minister for Health Instructs POFMA Office to Issue Correction Directions
+title:  Lifting of Temporary Exemptions From General Correction Directions
 date:   2020-01-30
-file_url: /documents/media-releases/2020/January/pofma-office-issue-tcd-28-jan-2020.pdf
+file_url: /documents/media-releases/2020/January/mci-lift-gazette-30-jan.pdf
 ---
