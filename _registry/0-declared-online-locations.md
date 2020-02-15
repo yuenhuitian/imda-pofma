@@ -13,8 +13,10 @@ The registry contains a list of Declared Online Locations, which can include web
 These are online locations that have carried three or more different online falsehoods which are the subject of active Directions issued by POFMA Office under Ministerial instruction within a period of 6 months, prior to the Declaration.
 A Declared Online Location will not be allowed to profit from spreading falsehoods in Singapore.
 
-The public should exercise caution and do additional fact-checking, if accessing these online locations for information.
+The public should exercise caution and do additional fact-checking, if accessing the following online location(s) for information:
 
-**There are currently no declared online locations.**
+**Facebook Page of States Times Review**
+<br>https://www.facebook.com/1599939350224250
+<br>Effective from 16 February 2020<br>
 
 If you wish to be notified of Declared Online Locations, click [here](https://form.gov.sg/5d91d428f23aa800126c6335) to sign up for the mailing list. 
