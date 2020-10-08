@@ -52,6 +52,8 @@ collections:
     output: true
   resources:
     output: true
+   statistics:
+    output: true
  # news:
    # output: true
 
